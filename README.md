@@ -47,7 +47,7 @@ To visualize the enrollment funnel and conversion metrics, a **Tableau dashboard
 This dashboard allows leadership to quickly identify bottlenecks in the enrollment funnel, compare performance across colleges, and make informed operational decisions.
 
 ### Tableau Public Link
-[View the Dashboard on Tableau Public]([[YOUR_TABLEAU_PUBLIC_LINK_HERE](https://public.tableau.com/views/EnrollmentFunnelAnalysisArizona/EnrollmentFunnelAnalysis?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)])
+[View the Dashboard on Tableau Public](https://public.tableau.com/views/EnrollmentFunnelAnalysisArizona/EnrollmentFunnelAnalysis?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
